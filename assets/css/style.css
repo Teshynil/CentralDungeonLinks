@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(-45deg, #d35ecd, #5aad45, #23a6d5, #3a0eb3);
+  background: linear-gradient(-45deg, #214b90, #070c12, #211949, #3e308b);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
@@ -28,7 +28,7 @@ img {
   margin-right: auto;
   margin-top: 5%;
   height: auto;
-  max-width: 100px;
+  max-width: 150px;
 }
 
 .profile-name {
@@ -75,7 +75,8 @@ img {
   border-radius: 40px;
   left: 20px;
   position: absolute;
-  font-size: 20px;
+  font-size: 40px;
+  line-height: 20px!important;
 }
 
 .hover {
