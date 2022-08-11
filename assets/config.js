@@ -1,17 +1,17 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Central Dungeon - Links",
+  "Name": "Central Dungeon",
+  "Description": "Nuestros Links",
   "links": [
-    {
+    /*{
       "Title": "Website",
-      "URL": "http://www.harindu.dev",
+      "URL": "https://centraldungeon.org",
       "icon_classes": "fas fa-link",
-    },
+    },*/
     {
-      "Title": "Github",
-      "URL": "https://github.com/harindulk",
-      "icon_classes": "fab fa-github",
+      "Title": "Discord",
+      "URL": "https://discord.gg/DeDEAytjv9",
+      "icon_classes": "fab fa-discord",
     },
     {
       "Title": "Play Store",
