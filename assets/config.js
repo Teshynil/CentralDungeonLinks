@@ -18,12 +18,10 @@ let config = {
       "URL": "https://www.facebook.com/CentralDungeon",
       "icon_classes": "fab fa-facebook"
     },
-    /*
     {
       "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://www.youtube.com/channel/UCE9uWOAHVmQV5SN4gAYXFzQ",
       "icon_classes": "fab fa-youtube"
     },
-    */
   ]
 }
