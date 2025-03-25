@@ -25,7 +25,7 @@ let config = {
     },
     {
       "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCE9uWOAHVmQV5SN4gAYXFzQ",
+      "URL": "https://www.youtube.com/@CentralDungeon",
       "icon_classes": "fab fa-youtube"
     },
   ]
