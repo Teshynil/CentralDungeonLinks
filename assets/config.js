@@ -19,6 +19,11 @@ let config = {
       "icon_classes": "fab fa-facebook"
     },
     {
+      "Title": "Instagram",
+      "URL": "https://www.instagram.com/centraldungeon",
+      "icon_classes": "fab fa-instagram"
+    },
+    {
       "Title": "Youtube",
       "URL": "https://www.youtube.com/channel/UCE9uWOAHVmQV5SN4gAYXFzQ",
       "icon_classes": "fab fa-youtube"
