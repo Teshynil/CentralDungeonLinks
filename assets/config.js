@@ -28,5 +28,15 @@ let config = {
       "URL": "https://www.youtube.com/@CentralDungeon",
       "icon_classes": "fab fa-youtube"
     },
+    {
+      "Title": "TikTok",
+      "URL": "https://www.tiktok.com/@centraldungeon",
+      "icon_classes": "fab fa-tiktok"
+    },
+    {
+      "Title": "WhatsApp",
+      "URL": "https://chat.whatsapp.com/I3oaPuh2JY7CHI45IyffdG?s=cl&p=a&mlu=4&ilr=4",
+      "icon_classes": "fab fa-whatsapp"
+    },
   ]
 }
